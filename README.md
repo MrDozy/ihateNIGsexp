@@ -1,2 +1,2 @@
-# ihateNIGsexp
+# ihateNIG
 for my project
